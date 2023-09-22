@@ -1,0 +1,11 @@
+/* Navigation.css */
+
+/* Cambia el fondo y el color del texto al pasar el mouse sobre la barra de navegación */
+.navbar:hover {
+    background-color: #fff; /* Cambia el color de fondo al pasar el mouse */
+  }
+  
+  .navbar:hover .nav-link {
+    color: #807272; /* Cambia el color del texto de los enlaces al pasar el mouse */
+  }
+  
